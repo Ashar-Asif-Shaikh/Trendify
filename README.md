@@ -1,6 +1,6 @@
-# 🛒 MERN E-Commerce Website
+# 🛒 Trendify
 
-Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-commerce application built using the powerful MERN stack, complete with an intuitive user-facing store and an all-encompassing admin dashboard.
+Welcome to the **Trendify**! This project is a feature-rich e-commerce application built using the powerful MERN stack, complete with an intuitive user-facing store and an all-encompassing admin dashboard.
 
 ## ✨ Features
 
